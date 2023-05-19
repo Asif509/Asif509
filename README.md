@@ -6,8 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AsifAhm77303471)
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Asif521/)
 
-
-https://github.com/Labir852/Labir852/raw/main/assets/coding.gif?raw=true
+![](https://raw.githubusercontent.com/Labir852/Labir852/main/assets/coding.gif)
 
 
 ![Snake animation](https://github.com/Labir852/Labir852/blob/output/github-contribution-grid-snake.svg)
