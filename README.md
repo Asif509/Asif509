@@ -7,7 +7,7 @@
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Asif521/)
 
 
-
+https://github.com/Labir852/Labir852/raw/main/assets/coding.gif?raw=true
 
 
 ![Snake animation](https://github.com/Labir852/Labir852/blob/output/github-contribution-grid-snake.svg)
