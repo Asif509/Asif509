@@ -1,6 +1,6 @@
 ### Hi there 👋,  I'm Asif Ahmed
 ![](https://raw.githubusercontent.com/Labir852/Labir852/main/assets/coding.gif)
-I am Asif Ahmed,Student of Computer Science and Engineering(CSE) of Primeasia University.Now I’m trying to keep myself updated and to gain various skills.
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Asif509)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/asif-ahmed-7938a6277/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sadequr.rahmanasif.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AsifAhm77303471)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://leetcode.com/Asif521/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sadequrasif.weebly.com/)  
 
